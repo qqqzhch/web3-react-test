@@ -25,6 +25,7 @@ const wallets = [injectedModule()]
 const appMetadata = {
   name: 'Uniswap Widget Example',
   icon: '<svg>My App Icon</svg>',
+  logo:"https://app.safe.global/images/safe-logo-green.png",
   description:
     'Example showcasing how to integrate web3-onboard with uniswap widget.',
   recommendedInjectedWallets: [
